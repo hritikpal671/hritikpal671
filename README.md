@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hritik Pal</h1>
 <h3 align="center">A passionate AI Developer from India</h3>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hritikpal671&label=Profile%20views&color=0e75b6&style=flat" alt="hritikpal671" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hritikpal671" alt="hritikpal671" /></a> </p>
+
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 
 - 👨‍💻 All of my projects are available at [github.com/hritikpal671](github.com/hritikpal671)
