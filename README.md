@@ -1,4 +1,4 @@
-![image](https://github.com/hritikpal671/hritikpal671/assets/108215116/327afa9b-d881-41e8-825a-7b9a015bafa2)<h1 align="center">Hi 👋, I'm Hritik Pal</h1>
+<h1 align="center">Hi 👋, I'm Hritik Pal</h1>
 <h3 align="center">A passionate AI Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif">
